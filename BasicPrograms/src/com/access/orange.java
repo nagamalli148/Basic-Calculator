@@ -5,6 +5,10 @@ public class orange {
 		
 		System.out.println("Hello "+ userName + ":)");	
 		}
+public void myname(String userName) {
+		
+		System.out.println("Hi "+ userName + ":)");	
+		}
 }
 
 /*
