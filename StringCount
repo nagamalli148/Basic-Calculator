@@ -1,0 +1,23 @@
+//  Java Program to count the total number of characters in a string
+
+
+import java.util.*;
+public class Main
+{
+	public static void main(String[] args) {
+     
+     int i,count=0; 
+     
+     Scanner sc=new Scanner(System.in);
+     System.out.println("Enter String");
+    
+       String str=sc.nextLine();
+    
+     for(i=0;i<str.length();i++)
+     
+     if(str.charAt(i)!='\0'){
+     count+=1;
+	}
+	System.out.println(count);
+}
+{
