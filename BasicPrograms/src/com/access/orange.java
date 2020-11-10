@@ -10,7 +10,6 @@ public void myname(String userName) {
 		System.out.println("Hi "+ userName + ":)");	
 		}
 }
-
 /*
 Please enter input
 Naga Malli

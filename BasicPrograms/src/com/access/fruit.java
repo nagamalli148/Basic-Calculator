@@ -10,7 +10,6 @@ public class fruit {
 		System.out.println("Please enter input");
 		
 		String userName=s.nextLine();
-		
 		userObj.myname(userName);
 	}
-	}
+}
