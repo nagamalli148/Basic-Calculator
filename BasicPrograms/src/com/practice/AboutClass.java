@@ -17,7 +17,6 @@ class Movie {  //Entity
 		name=n;
 		category=c;
 	}
-	
 	public String getName() {
 		return name;
 	}
